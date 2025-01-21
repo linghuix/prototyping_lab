@@ -29,18 +29,18 @@ Every FVP needs to be easily modifiable, if it is not then it hasn't been made w
 - [potentiometer](https://se.farnell.com/en-SE/bourns/ptv09a-4020f-a103/pot-rotary-10kohm-9mm-20/dp/2519595)
 
 ### sensors
-- tensile sensor
-- pressure sensor
+- tensile  (Ask Xioachen)
+- [pressure sensor](https://se.farnell.com/en-SE/infineon/kp229f3519xtma1/pressure-sensor-400kpa-40-to-140deg/dp/3014233)
 - distance sensor (ex sound based easier)
-- imus
-
+- imus (We have those?)
+- [microswitches](https://se.farnell.com/en-SE/multicomp-pro/mp005550/microswitch-spst-nc-0-1a-30vdc/dp/3553962)
 ### actuators
 - basic dc
 - basic stepper
 - low power solenoids
 ## Test & debug
 
-- multimeter
+- [multimeter](https://se.farnell.com/en-SE/duratool/d03124/digital-multimeter-auto-10a-600v/dp/3212635 )
 - [basic led](https://se.farnell.com/en-SE/pro-signal/psg91918/led-5mm-red-flashing-diffused/dp/4161066)
 - optionnal : [2 channel digital oscilloscope](https://se.farnell.com/en-SE/tenma/72-8225a/oscilloscope-2-ch-50mhz-500msps/dp/2499522)
 
@@ -53,15 +53,15 @@ Every FVP needs to be easily modifiable, if it is not then it hasn't been made w
 
 
 ## tools
-- cordless drill (nice one)
+- cordless drill (nice one) (not on Farnell)
 - perhaps pillar drill ? (if yes perhaps just an electric screwdriver instead of the cordless drill)
-- bench vice
-- file kit (small kit + big kit)
-- screwdriver with alllllll the bits (as well as sockets)
+- [bench vice](https://se.farnell.com/en-SE/duratool/d02334/bench-vice-swivel-100mm-jaw-cast/dp/2444538)
+- file kit ([small kit](https://se.farnell.com/en-SE/duratool/d00148/needle-file-set-3-x-140mm-6pc/dp/1447431) + [big kit](https://se.farnell.com/en-SE/ck-tools/t0120p/file-set/dp/1725406)
+- screwdriver with alllllll the bits (as well as sockets) (not really on Farnell)
 - Adjustable spanner
-- hammer
-- deadblow mallet
-- caliper
+- [hammer](https://se.farnell.com/en-SE/ck-tools/356003/engineer-hammer-400g-ash-handle/dp/2494979)
+- deadblow mallet (Not on farnell)
+- [caliper](https://se.farnell.com/en-SE/hilka-tools/76915000/vernier-caliper-stainless-steel/dp/2529016)
 - metal ruler
 - scissors
 - pliers
