@@ -29,7 +29,7 @@ activated carbon fume filters
 
 ## Test & debug
 
-- multimeter
+- [multimeter](https://se.farnell.com/en-SE/duratool/d03124/digital-multimeter-auto-10a-600v/dp/3212635 )
 - [basic led](https://se.farnell.com/en-SE/pro-signal/psg91918/led-5mm-red-flashing-diffused/dp/4161066)
 - optionnal : [2 channel digital oscilloscope](https://se.farnell.com/en-SE/tenma/72-8225a/oscilloscope-2-ch-50mhz-500msps/dp/2499522)
 
