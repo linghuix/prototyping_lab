@@ -62,20 +62,20 @@ Every FVP needs to be easily modifiable, if it is not then it hasn't been made w
 - [hammer](https://se.farnell.com/en-SE/ck-tools/356003/engineer-hammer-400g-ash-handle/dp/2494979)
 - deadblow mallet (Not on farnell)
 - [caliper](https://se.farnell.com/en-SE/hilka-tools/76915000/vernier-caliper-stainless-steel/dp/2529016)
-- metal ruler
+- metal ruler (Not on Farnell)
 - scissors (not really on Farnell)
-- pliers
-- saw
-- glue gun
-- sewing machine
-- **label make** 
+- [pliers](https://se.farnell.com/en-SE/stanley/stht0-75094/3-pc-control-grip-plier-set-150mm/dp/3375397)
+- saw (not really on Farnell)
+- glue gun (We have that?)
+- sewing machine (We have that?)
+- **label make** (Not on Farnell)
 
 ## Components
 
 * Assortment of screws, washers, bolts etc (M4)
 * heat inserts
 * breaking bolts
-* Velcro
+* Velcro (we have it)
 * fabric (neoprene)
 * metallic cables
 - bowden tubes
