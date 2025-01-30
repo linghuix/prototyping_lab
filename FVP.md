@@ -66,9 +66,9 @@ Every FVP needs to be easily modifiable, if it is not then it hasn't been made w
 - scissors (not really on Farnell)
 - [pliers](https://se.farnell.com/en-SE/stanley/stht0-75094/3-pc-control-grip-plier-set-150mm/dp/3375397)
 - saw (not really on Farnell)
-- glue gun (We have that?)
-- sewing machine (We have that?)
-- **label make** (Not on Farnell)
+- glue gun ((we already have it))
+- sewing machine (we already have it, but it is broken before. I am not sure if it is fixed)
+- **label make** (we have that in lab)
 
 ## Components
 
